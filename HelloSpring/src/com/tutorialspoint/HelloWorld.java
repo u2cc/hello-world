@@ -6,13 +6,10 @@ public class HelloWorld {
    public void setMessage(String message){
       this.message  = message;
    }
-//add a useless comment
+
    public void getMessage(){
       System.out.println("Your Message : " + message);
       System.out.println("something");
-      System.out.println("something");
-      System.out.println("something");
-      System.out.println("something");
-      //seeseee
+     
    }
 }
